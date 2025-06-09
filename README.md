@@ -22,10 +22,8 @@ This repository showcases a collection of Data Science , Machine Learning and Po
 
 ## Power BI
 
-1). Sales Data Analysis - Created an interactive Power BI Dashboard to analyze sales data and visualise performance trends.
+1). UPI Transaction Data Analysis - Developed an interactive Power BI dashboard to analyse a sample UPI transaction data, providing insights into transaction patterns.
 
-2). UPI Transaction Data Analysis - Developed an interactive Power BI dashboard to analyse a sample UPI transaction data, providing insights into transaction patterns.
-
-3). Insurance Data Analysis - Designed an interactive Power BI Dashboard to analyze insurance data , providing valuable insights into claim patterns.
+2). Insurance Data Analysis - Designed an interactive Power BI Dashboard to analyze insurance data , providing valuable insights into claim patterns.
 
 #### ---> Tech Stacks - Power BI, Visualisation Tools (Graph, Slicers, Drill Throughs, KPI's, Charts), DAX Queries, Navigation Panes, Bookmarks, Excel (Data Source).
